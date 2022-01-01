@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+
+    <string name="next">다음</string>
+    <string name="skip">건너띄기</string>
+    <string name="start">시작</string>
+
+
+</resources>
